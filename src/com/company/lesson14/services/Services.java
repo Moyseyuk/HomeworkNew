@@ -1,4 +1,7 @@
-package com.company.lesson14;
+package com.company.lesson14.services;
+
+import com.company.lesson14.SEX;
+import com.company.lesson14.User;
 
 import java.util.ArrayList;
 import java.util.Collection;
